@@ -17,7 +17,7 @@ String color;
 		// TODO Auto-generated method stub
 		Orange greenApple= new Orange("green");
 		String color=greenApple.getcolor();
-		System.out.println("color of apple is ");
+		System.out.println("color of apple is "+color);
 		
 
 
